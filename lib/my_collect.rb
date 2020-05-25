@@ -7,5 +7,3 @@ def my_collection(collection)
   end
   new_collection
 end
-
-
